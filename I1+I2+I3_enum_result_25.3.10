@@ -1,6 +1,7 @@
 # Results of polyomino tiling enumeration in rectangle chessboard
 
-# chosen polyominoes: I1+I2+I3 (monomino + domino + straight tromino), allowing for rotation
+# chosen polyominoes: I1+I2+I3 (monomino + domino + straight tromino)
+# (allowing for rotation)
 # ._. .___. ._____.
 # |_| |_|_| |_|_|_|
 
