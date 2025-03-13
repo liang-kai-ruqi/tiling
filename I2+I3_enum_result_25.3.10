@@ -1,4 +1,6 @@
-# Results of polyomino tiling enumeration in rectangle chessboard
+# Results of polyomino tiling enumeration in rectangle chessboard:
+# Allowing for rotating the polyominoes.
+# Distinguishing the symmetrical tilings.
 
 # chosen polyominoes: I2+I3 (domino + straight tromino)
 # (allowing for rotation)
